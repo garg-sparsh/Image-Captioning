@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#Reference: https://github.com/hse-aml/intro-to-dl/blob/master/tqdm_utils.py
 from __future__ import print_function
 import tqdm
 tqdm.monitor_interval = 0  # workaround for https://github.com/tqdm/tqdm/issues/481
