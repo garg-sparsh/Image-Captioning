@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#Reference: https://github.com/hse-aml/intro-to-dl/blob/master/utils.py
 import os
 import queue
 import threading
