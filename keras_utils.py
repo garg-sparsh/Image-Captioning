@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#Reference: https://github.com/hse-aml/intro-to-dl/blob/master/keras_utils.py
 from collections import defaultdict
 import numpy as np
 from keras.models import save_model
